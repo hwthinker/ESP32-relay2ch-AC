@@ -126,7 +126,7 @@ void loop() {
 >[!NOTE]
 > Untuk serial disarankan menggunakan serial auto download
 >
-> - https://tokopedia.link/KbEeomXRMPb atau
+> - https://tokopedia.link/7tAP68UCiQb  atau
 > - https://shopee.co.id/product/21375728/27056587756/ 
 
 
